@@ -8,3 +8,7 @@ Implements a two-point touch function, and these behaviors:
 * Fade on touch
 * "Dice" (between 1-6 blinks upon touch)
 * "Memorize" (remember and playback a tapping pattern, minimum two taps)
+
+Notes on fusing for production:
+* Brownout detecter set to 1.8V (note default none)
+* Initial clock set to 8MHz by fuses (note default is 1MHz)
