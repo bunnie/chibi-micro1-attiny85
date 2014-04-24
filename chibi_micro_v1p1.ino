@@ -1,6 +1,7 @@
 //Dice/On/Learn/Impulse for ATTiny by Natalie Freed and Jie Qi, 2014
 //Part of a series of ATTiny paper electronics samples
 //Debounce code from Arduino example by David Mellis
+// GPLv3 license
 
 #include <EEPROM.h>
 
